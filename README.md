@@ -2,8 +2,6 @@
 
 A business intelligence dashboard designed to evaluate **workforce compensation structure**, **experience distribution**, and **salary growth dynamics** using structured HR data.
 
-Dataset Size: **10000 employees** across multiple job roles and education levels
-
 This project demonstrates practical skills in:
 
 - Data Cleaning & Transformation  
@@ -13,6 +11,8 @@ This project demonstrates practical skills in:
 - Professional Dashboard UI Design  
 
 It simulates a real-world HR analytics scenario where decision-makers need visibility into salary structures and workforce experience distribution.
+
+Dataset Size: **10000 employees** across multiple job roles and education levels
 
 ---
 
