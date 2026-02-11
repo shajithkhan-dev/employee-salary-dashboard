@@ -1,6 +1,8 @@
 # 📊 Employee Salary, Experience & Compensation Analytics Dashboard
 
-An end-to-end **HR Analytics & Business Intelligence project** built using **Excel and Power BI** to analyze workforce compensation trends, experience distribution, and salary growth patterns.
+A business intelligence dashboard designed to evaluate **workforce compensation structure**, **experience distribution**, and **salary growth dynamics** using structured HR data.
+
+Dataset Size: **10000 employees** across multiple job roles and education levels
 
 This project demonstrates practical skills in:
 
@@ -115,12 +117,12 @@ These insights can assist HR leadership in:
 
 ---
 
-## 🏗 Data Modeling Approach
+## 🏗 Data Modeling & DAX Strategy
 
-- Designed structured data model for scalable analysis  
-- Developed KPI-focused measures using DAX  
-- Optimized relationships for performance and clarity  
-- Built dashboards aligned with decision-making use cases  
+- Built optimized relationships between dimension and fact-style tables  
+- Developed calculated measures for dynamic KPI evaluation  
+- Applied aggregation logic to ensure accurate salary segmentation  
+- Structured model to support scalable filtering and drill-down analysis  
 
 ---
 
@@ -158,5 +160,3 @@ This project was developed to demonstrate:
 
 > “Without data, you're just another person with an opinion.”
 
-- HR analytics understanding
-- Dashboard storytelling and UI design
