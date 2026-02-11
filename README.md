@@ -2,6 +2,12 @@
 
 A business intelligence dashboard designed to evaluate **workforce compensation structure**, **experience distribution**, and **salary growth dynamics** using structured HR data.
 
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="Screenshots/Dashboard.jpeg" width="850"/>
+</p>
+
 This project demonstrates practical skills in:
 
 - Data Cleaning & Transformation  
