@@ -12,7 +12,16 @@ This project demonstrates practical skills in:
 
 It simulates a real-world HR analytics scenario where decision-makers need visibility into salary structures and workforce experience distribution.
 
-Dataset Size: **10000 employees** across multiple job roles and education levels
+Dataset Size: **~10K+** employees across multiple job roles and education levels
+
+---
+
+## 🎯 Business Questions Addressed
+
+- How does salary scale with years of experience?
+- Which job roles and education levels drive higher compensation?
+- Where are compensation imbalances or structural patterns visible?
+- How is workforce experience distributed across salary bands?
 
 ---
 
