@@ -1,25 +1,29 @@
-# 📊 Employee Salary, Experience & Compensation Insights Dashboard
+# 📊 Employee Salary, Experience & Compensation Analytics Dashboard
 
-An interactive **data analytics and business intelligence project**
-built using **Excel and Power BI** to analyze workforce salary patterns,
-experience levels, and compensation distribution.
+An end-to-end **HR Analytics & Business Intelligence project** built using **Excel and Power BI** to analyze workforce compensation trends, experience distribution, and salary growth patterns.
 
-This project demonstrates **data cleaning, transformation, modeling, DAX
-calculations, and dashboard design** skills in a real-world HR analytics
-scenario.
+This project demonstrates practical skills in:
 
-------------------------------------------------------------------------
+- Data Cleaning & Transformation  
+- Data Modeling & Star Schema Thinking  
+- DAX-Based KPI Development  
+- Business Insight Generation  
+- Professional Dashboard UI Design  
 
-## 🧰 Tools & Technologies Used
+It simulates a real-world HR analytics scenario where decision-makers need visibility into salary structures and workforce experience distribution.
 
-  Tool                          Purpose
-  ----------------------------- -------------------------------------------
-  **Excel**                     Data cleaning, preprocessing, structuring
-  **Power BI**                  Data modeling & dashboard creation
-  **DAX**                       Measures, KPIs, calculated columns
-  **SVG Design (PowerPoint)**   Custom dashboard layout & UI styling
+---
 
-------------------------------------------------------------------------
+## 🧰 Tools & Technologies
+
+| Tool | Purpose |
+|------|----------|
+| **Excel** | Data cleaning, preprocessing, structuring |
+| **Power BI** | Data modeling, DAX calculations & dashboard development |
+| **DAX** | Measures, KPIs, calculated columns |
+| **SVG (PowerPoint Design)** | Custom UI layout & professional dashboard styling |
+
+---
 
 ## 📁 Project Structure
 
@@ -41,90 +45,118 @@ scenario.
     │
     └── README.md
 
-------------------------------------------------------------------------
+---
 
-## 🧹 Data Preparation (Excel)
+## 🧹 Data Preparation & Transformation (Excel)
 
-The raw dataset was cleaned and structured before importing into Power
-BI.
+The dataset underwent structured preprocessing before being imported into Power BI.
 
-### Cleaning Steps Performed:
+### ✔ Cleaning & Validation Steps
 
-✔ Removed blank and incomplete rows\
-✔ Standardized job titles and education levels\
-✔ Checked for invalid age and experience values\
-✔ Handled missing salary and experience entries\
-✔ Structured dataset into a formatted Excel Table
+- Removed blank, duplicate, and incomplete records  
+- Standardized job titles and education categories  
+- Validated age and experience values  
+- Handled missing salary and experience entries  
+- Structured dataset into a formatted Excel Table  
 
-### New Columns Created:
+### ✔ Feature Engineering
 
--   **Experience_Level** -- Categorized years of experience\
--   **Age_Group** -- Workforce age segmentation\
--   **Salary_Band** -- Low / Medium / High salary classification\
--   **Salary_per_Year_Experience** -- Salary growth indicator
+New analytical columns were created to enhance insights:
 
-------------------------------------------------------------------------
+- **Experience_Level** – Categorized experience bands  
+- **Age_Group** – Workforce segmentation  
+- **Salary_Band** – Compensation classification (Low / Medium / High)  
+- **Salary_per_Year_Experience** – Salary growth efficiency metric  
 
-## 📈 Dashboard Features (Power BI)
+---
 
-### 🔹 KPI Cards
+## 📈 Dashboard Capabilities
 
--   Total Employees\
--   Average Salary\
--   Average Years of Experience\
--   Bonus Eligibility Count
+### 🔹 Executive KPI Overview
 
-### 🔹 Visualizations
+- Total Workforce Size  
+- Average Salary  
+- Average Years of Experience  
+- Bonus Eligibility Count  
 
--   **Average Salary vs Years of Experience** (Scatter Plot)
--   **Average Salary by Education Level**
--   **Average Salary by Job Title**
--   **Workforce Distribution by Experience Level**
--   **Gender Distribution**
--   **Salary Band Distribution**
+---
+
+### 🔹 Analytical Visualizations
+
+- 📊 **Salary vs Experience Scatter Analysis**
+- 🎓 **Salary by Education Level**
+- 💼 **Salary by Job Title**
+- 📈 **Experience Distribution**
+- 👥 **Gender Distribution**
+- 💰 **Salary Band Segmentation**
+
+---
 
 ### 🔹 Interactive Features
 
--   Slicers for dynamic filtering\
--   Custom-designed navigation buttons\
--   Tooltip-based guidance for icon buttons\
--   Responsive layout using imported SVG design
+- Dynamic slicers for filtering by role, education, and experience  
+- Tooltip-based navigation guidance  
+- Clean UI built using custom SVG layout  
+- Responsive visual structure for storytelling  
 
-------------------------------------------------------------------------
+---
 
-## 🧠 Key Insights Derived
+## 🧠 Business Insights Generated
 
-📌 Salary increases with experience but shows slower growth after senior
-levels\
-📌 Higher education levels generally correlate with higher average
-salaries\
-📌 Certain job roles dominate the high salary band\
-📌 Workforce experience distribution highlights mid-level employee
-concentration
+- Salary increases progressively with experience but plateaus at senior levels  
+- Higher education correlates with higher compensation brackets  
+- Certain job roles dominate the high-salary segment  
+- Workforce concentration is strongest at mid-level experience tiers  
 
-------------------------------------------------------------------------
+These insights can assist HR leadership in:
+- Workforce planning  
+- Compensation strategy optimization  
+- Talent structure analysis  
 
-## 🎨 Dashboard Design
+---
 
-A custom dashboard layout was created in PowerPoint and exported as
-**SVG**, then imported into Power BI to create a more professional and
-modern UI.
+## 🏗 Data Modeling Approach
 
-------------------------------------------------------------------------
+- Designed structured data model for scalable analysis  
+- Developed KPI-focused measures using DAX  
+- Optimized relationships for performance and clarity  
+- Built dashboards aligned with decision-making use cases  
 
-## 🚀 How to Use This Project
+---
 
-1.  Download the repository\
-2.  Open **Employee_Salary_Dashboard.pbix** in Power BI Desktop\
-3.  If prompted, update the data source path to the Excel file in the
-    **Data** folder\
-4.  Refresh the data model
+## 🎨 Dashboard Design Strategy
 
-------------------------------------------------------------------------
+A custom layout was created in PowerPoint and exported as **SVG**, then imported into Power BI to achieve:
 
-## 📌 Project Purpose
+- Professional UI consistency  
+- Visual hierarchy clarity  
+- Clean analytical storytelling  
+- Reduced visual clutter  
 
-This project was built to showcase: - Real-world data cleaning\
-- Business intelligence reporting\
-- HR analytics understanding\
+---
+
+## 🚀 How to Run This Project
+
+1. Clone or download the repository  
+2. Open `Employee_Salary_Dashboard.pbix` in Power BI Desktop  
+3. If prompted, update the Excel data source path  
+4. Refresh the dataset  
+
+---
+
+## 🎯 Project Objective
+
+This project was developed to demonstrate:
+
+- Real-world HR data analysis  
+- Business intelligence reporting  
+- Data modeling fundamentals  
+- KPI-driven storytelling  
+- Professional dashboard design principles  
+
+---
+
+> “Without data, you're just another person with an opinion.”
+
+- HR analytics understanding
 - Dashboard storytelling and UI design
